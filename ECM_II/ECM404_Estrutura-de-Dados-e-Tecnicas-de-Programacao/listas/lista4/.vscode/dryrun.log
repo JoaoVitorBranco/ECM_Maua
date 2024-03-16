@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/joaov/Desktop/EDCI/EDTP/lista4'
+make: Leaving directory '/cygdrive/c/Users/joaov/Desktop/EDCI/EDTP/lista4'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
